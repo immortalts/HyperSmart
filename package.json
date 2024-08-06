@@ -1,6 +1,6 @@
 {
-  "name": "@HyperSmart",
-  "version": "1.0.1",
+  "name": "@hypersmart/ui",
+  "version": "1.0.2",
   "description": "A components library example",
   "main": "lib/varlet.cjs.js",
   "module": "es/index.mjs",
