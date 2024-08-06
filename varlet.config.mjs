@@ -10,6 +10,8 @@ let currentDate = new Date();
 let currentYear = currentDate.getFullYear();
 
 export default defineConfig({
+  name: 'HyperSmart',
+  namespace: 'hs',
   logo: './logo.svg',
   title: 'HyperSmart',
   useMobile: true,
@@ -118,14 +120,7 @@ export default defineConfig({
       ],
       teamMembers: {},
       contributors: {},
-      sponsors: {
-          label: {
-              'zh-CN': '赞助者',
-              'en-US': 'Sponsors',
-          },
-          link: 'https://cdn.jsdelivr.net/gh/varletjs/varlet-static/sponsorkit/sponsors.svg',
-          image: 'https://cdn.jsdelivr.net/gh/varletjs/varlet-static/sponsorkit/sponsors.svg',
-      },
+      sponsors: {},
       license: {
           'zh-CN': '组件库基于 MIT 协议，您可以自由的使用和分享',
           'en-US': 'Released under the MIT License, You can use and share freely.',

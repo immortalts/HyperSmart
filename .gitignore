@@ -1,6 +1,5 @@
 node_modules
 
-.varlet
 .idea
 .vscode
 .history
@@ -9,7 +8,7 @@ node_modules
 index.draft.vue
 *.draft.md
 
-site
+
 lib
 es
 umd
