@@ -76,5 +76,30 @@
     "umd",
     "highlight",
     "types"
-  ]
+  ],
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "dependencies": {
+    "conventional-changelog-eslint": "^5.0.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.10.0",
+    "eslint-import-resolver-node": "^0.3.9",
+    "eslint-module-utils": "^2.8.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-vue": "^9.27.0",
+    "eslint-scope": "^7.2.2",
+    "eslint-visitor-keys": "^3.4.3",
+    "vue-eslint-parser": "^9.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immortalts/HyperSmart.git"
+  },
+  "author": "lamb",
+  "bugs": {
+    "url": "https://github.com/immortalts/HyperSmart/issues"
+  },
+  "homepage": "https://github.com/immortalts/HyperSmart#readme"
 }
