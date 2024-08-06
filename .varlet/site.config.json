@@ -161,8 +161,265 @@
           }
         }
       ],
-      "teamMembers": {},
-      "contributors": {},
+      "teamMembers": {
+        "label": {
+          "zh-CN": "团队成员",
+          "en-US": "Team Members"
+        },
+        "members": [
+          {
+            "name": {
+              "zh-CN": "haoziqaq",
+              "en-US": "haoziqaq"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 核心团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/24223652",
+            "github": "https://github.com/haoziqaq",
+            "twitter": "https://twitter.com/haozijunqaq"
+          },
+          {
+            "name": {
+              "zh-CN": "BeADre",
+              "en-US": "BeADre"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 核心团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/34639100",
+            "github": "https://github.com/BeADre"
+          },
+          {
+            "name": {
+              "zh-CN": "zhangmo8",
+              "en-US": "zhangmo8"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs & ikun-ui 核心团队成员",
+              "en-US": "Core team member of varletjs & ikun-ui"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/43628500",
+            "github": "https://github.com/zhangmo8",
+            "twitter": "https://twitter.com/wegi8666"
+          },
+          {
+            "name": {
+              "zh-CN": "chouchouji",
+              "en-US": "chouchouji"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 核心团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/70570907",
+            "github": "https://github.com/chouchouji"
+          },
+          {
+            "name": {
+              "zh-CN": "tiny-dust",
+              "en-US": "tiny-dust"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 核心团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/49502875",
+            "github": "https://github.com/tiny-dust"
+          },
+          {
+            "name": {
+              "zh-CN": "songjianet",
+              "en-US": "songjianet"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs & apache & w3c & naiveui & ikun-ui 团队成员",
+              "en-US": "Core team member of varletjs & apache & w3c & naiveui & ikun-ui"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/19239641",
+            "github": "https://github.com/songjianet",
+            "twitter": "https://twitter.com/songjianet"
+          },
+          {
+            "name": {
+              "zh-CN": "running snail",
+              "en-US": "running snail"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs & dcloud 团队成员",
+              "en-US": "Core team member of varletjs & dcloud"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/37523000",
+            "github": "https://github.com/zhenyuWang"
+          },
+          {
+            "name": {
+              "zh-CN": "qytayh",
+              "en-US": "qytayh"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/39668309",
+            "github": "https://github.com/qytayh"
+          },
+          {
+            "name": {
+              "zh-CN": "Erkelost",
+              "en-US": "Erkelost"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs & unplugin & farm & devui & wujie 团队成员",
+              "en-US": "Core team member of varletjs & unplugin & farm & devui & wujie"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/66500121",
+            "github": "https://github.com/ErKeLost"
+          },
+          {
+            "name": {
+              "zh-CN": "EmberSpirit",
+              "en-US": "EmberSpirit"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/85718018",
+            "github": "https://github.com/wangKBweb"
+          },
+          {
+            "name": {
+              "zh-CN": "ayangweb",
+              "en-US": "ayangweb"
+            },
+            "title": {
+              "zh-CN": "开源开发者 & B 站 UP 主",
+              "en-US": "Open Source Developer & Bilibili UP"
+            },
+            "description": {
+              "zh-CN": "varletjs 团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/75017711",
+            "github": "https://github.com/ayangweb"
+          },
+          {
+            "name": {
+              "zh-CN": "jiechen66",
+              "en-US": "jiechen66"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/42862411",
+            "github": "https://github.com/jiechen66"
+          },
+          {
+            "name": {
+              "zh-CN": "dyggod",
+              "en-US": "dyggod"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/49914353",
+            "github": "https://github.com/dyggod"
+          },
+          {
+            "name": {
+              "zh-CN": "clen cat",
+              "en-US": "clen cat"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/37403253",
+            "github": "https://github.com/a145789"
+          },
+          {
+            "name": {
+              "zh-CN": "gaoting",
+              "en-US": "gaoting"
+            },
+            "title": {
+              "zh-CN": "开源开发者",
+              "en-US": "Open Source Developer"
+            },
+            "description": {
+              "zh-CN": "varletjs 团队成员",
+              "en-US": "Core team member of varletjs"
+            },
+            "avatar": "https://avatars.githubusercontent.com/u/7401170",
+            "github": "https://github.com/gaoting"
+          }
+        ]
+      },
+      "contributors": {
+        "label": {
+          "zh-CN": "贡献者",
+          "en-US": "Contributors"
+        },
+        "link": "https://github.com/varletjs/varlet/graphs/contributors",
+        "image": "https://contrib.rocks/image?repo=varletjs/varlet"
+      },
       "sponsors": {
         "label": {
           "zh-CN": "赞助者",
